@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css/reset.css">
+		<link rel="stylesheet" href="css/style.css">
+		<title>Zazor</title>
+	</head>
+	<body>
+				<form class="select dial" action="zazor.com.ua" method="get">
+			<fieldset>
+				<b>поиск дисков</b>
+				<div class="dial-left">
+					<ul>
+						<li>
+							<label for="D">Диаметр<span>диска:</span></label>
+							<select id="D" name="D">
+								<option value="14">14</option>
+								<option value=""></option>
+							</select>
+						</li>
+						<li>
+							<label for="hole">Количество<br><span>крепёжных<br>отверстий:</span></label>
+							<select id="hole" name="holes">
+								<option value="3">3</option>
+								<option value=""></option>
+							</select>
+						</li>
+						<li>
+							<label for="D2">Диаметр<br><span>расположения<br>крепёжных<br>отверстий:</span></label>
+							<select id="D2" name="D">
+								<option value="14">14</option>
+								<option value=""></option>
+							</select>
+						</li>
+					</ul>
+				</div>
+				<div class="dial-right">
+					<ul>
+						<li>
+							<label for="DC">ДЦО<br><span>(диаметр<br>центрального<br>отверстия):</span></label>
+							<select id="DC" name="DC">
+								<option value="12">12</option>
+								<option value=""></option>
+							</select>
+						</li>
+						<li>
+							<label for="ET">ЕТ<br><span>(вылет диска):</span></label>
+							<select id="ET" name="ET">
+								<option value="12">12</option>
+								<option value=""></option>
+							</select>
+						</li>
+						<li>
+							<input class="report" type="submit" value="поиск...">
+						</li>
+					</ul>
+				</div>
+			</fieldset>
+		</form>
+  </body>
+</html>

@@ -1,0 +1,46 @@
+.tel, .авторизация, .basket, .catalog, .home, .letter, .map{
+	background: url(sprites.png) no-repeat;
+}
+
+.tel{
+	background-position: -117.00000381469727px -65px ;
+	width: 15px;
+	height: 20px;
+}
+
+.авторизация{
+	background-position: -18.000003814697266px -16px ;
+	width: 14px;
+	height: 18px;
+}
+
+.basket{
+	background-position: -114.00000381469727px -16px ;
+	width: 21px;
+	height: 17px;
+}
+
+.catalog{
+	background-position: -19.000003814697266px -66px ;
+	width: 12px;
+	height: 14px;
+}
+
+.home{
+	background-position: -68.00000381469727px -19px ;
+	width: 12px;
+	height: 11px;
+}
+
+.letter{
+	background-position: -69.00000381469727px -118px ;
+	width: 12px;
+	height: 9px;
+}
+
+.map{
+	background-position: -68.00000381469727px -69px ;
+	width: 14px;
+	height: 10px;
+}
+
