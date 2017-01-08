@@ -304,8 +304,7 @@ body {
 
 /*MAIN*/
 .search {
-  min-height: 133px;
-  margin-top: 10px;
+  min-height: 133px;  margin-top: 10px;
   margin-bottom: 16px;
 }
 
@@ -392,8 +391,7 @@ body {
 .all .tire {
   float: left;
 
-  width: 178px;
-  margin-left: 25px;
+  width: 178px;  margin-left: 25px;
 }
 
 .all select {
@@ -449,13 +447,10 @@ body {
 }
 
 .bus li:first-child {
-  margin-bottom: 5px;
-  margin-left: 14px;
-}
+  margin-bottom: 5px;  margin-left: 14px;}
 
 .bus li:nth-child(2) {
-  margin-bottom: 5px;
-  margin-left: 45px;
+  margin-bottom: 5px;  margin-left: 45px;
 }
 
 .bus li:nth-child(3) {
@@ -624,8 +619,7 @@ body {
 .catalog .subtitle {
   display: block;
 
-  width: 124px;
-  margin: 0;
+  width: 124px;  margin: 0;
 
   font-size: 14px;
 }
