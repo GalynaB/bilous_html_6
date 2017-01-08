@@ -449,10 +449,14 @@ body {
 }
 
 .bus li:first-child {
-  margin-bottom: 5px;  margin-left: 14px;}
+  margin-bottom: 5px;
+  margin-left: 14px;
+}
 
 .bus li:nth-child(2) {
-  margin-bottom: 5px;  margin-left: 45px;}
+  margin-bottom: 5px;
+  margin-left: 45px;
+}
 
 .bus li:nth-child(3) {
   margin-left: 15px;
@@ -754,7 +758,12 @@ body {
   margin-bottom: 5px;
 
   border: 1px solid #a4aeb1;
-  border-radius: 7px;  background-color: #ffffff;}.goods img {
+  border-radius: 7px;
+
+  background-color: #ffffff;
+}
+
+.goods img {
   position: absolute;
   top: 0;
   right: 0;
